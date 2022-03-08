@@ -1,11 +1,12 @@
-*{ 
+*{ /*tirando toda a margi, padding que vem por padrao no navegador*/
     margin: 0;
     padding:0;
 }
 
-body{
+body{ /*INformando que a minha pagina vai ocupar 100% de largura e 100% de altura*/
     width: 100%;
     height: 100vh;
+    /*adicionando uma imagem de fundo na minha pagina com a propriedade cover caso algum usuario tenha uma tela pequena, ela sempre vai se adptar ao tamanho da tela*/
     background: url(../imagens/fundo_desktop.jpg) no-repeat center;
     background-size: cover;
 }
