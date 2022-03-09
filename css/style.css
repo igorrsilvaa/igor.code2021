@@ -35,7 +35,7 @@ body{
     text-decoration: none;
     font-family: 'Fredokai', sans-serif;
     font-weight: bold;
-    color: #000000;
+    color: #F9F9F9;
 }
 
 .links{
@@ -80,15 +80,15 @@ body{
         width: 200px;
     }
     .row .caption{
-        padding-top: 40px;
-        padding-bottom: 90px;
+        padding-top: 35px;
+        padding-bottom: 70px;
     }
 
     .row .caption a{
-        text-decoration: underline;
-        font-family: 'roboto', sans-serif;
+        text-decoration: none;
+        font-family: 'Fredokai', sans-serif;
         font-weight: 500;
-        color: #000000;
+        color: #F9F9F9;
         font-size: 1.5em;
     }
 
