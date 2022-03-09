@@ -57,7 +57,7 @@ body{
 }
 
 .links a:hover{
-    color: #d42222;
+    color: #7a788ad7;
 }
 
 .rodape{
@@ -94,7 +94,7 @@ body{
     }
 
     .caption a:hover{
-        color: rgba(20, 24, 29, 0.81);
+        color: #7a788ad7;
     }
 
     .links{
