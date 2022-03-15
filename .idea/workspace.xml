@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ef52f78-f182-4198-81f5-9f5b63ab1d96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Erro_503.fig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/erro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/erro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ideia erro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/Erro_503.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/126b0f8c1ec95fb3a2541745bfc21365b438d668" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Site Pessoal/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Site Pessoal/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +58,9 @@
         </option>
       </RecentBranches>
     </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="n2egcmdr" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -89,6 +102,7 @@
       <workItem from="1646793270714" duration="137000" />
       <workItem from="1646793440969" duration="1634000" />
       <workItem from="1646795153472" duration="65000" />
+      <workItem from="1647313185999" duration="629000" />
     </task>
     <servers />
   </component>

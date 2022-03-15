@@ -34,8 +34,9 @@ body{
 .row .caption a{
     text-decoration: none;
     font-family: 'Fredokai', sans-serif;
+    font-size: 18px;
     font-weight: bold;
-    color: #F9F9F9;
+    color: #EFB037;
 }
 
 .links{
@@ -68,7 +69,7 @@ body{
 
 .rodape p{
     font-size: 18px;
-    color: rgba(255, 255, 255, 0.66);
+    color: #EFB037;
 }
 
 @media (min-width: 720px){
@@ -88,8 +89,8 @@ body{
     .row .caption a{
         text-decoration: none;
         font-family: 'Fredokai', sans-serif;
-        font-weight: 500;
-        color: #F9F9F9;
+        font-weight: 600;
+        color: #EFB037;
         font-size: 1.5em;
     }
 
@@ -113,6 +114,6 @@ body{
 
     .rodape p{
         font-size: 25px;
-        color: rgba(255, 255, 255, 0.73);
+        color: #EFB037;
     }
 }
