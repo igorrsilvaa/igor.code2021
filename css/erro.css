@@ -3,25 +3,26 @@
     padding: 0;
 }
 
-body {
-    width: 100%;
-    height: 100%;
+body{
+  width: 100%;
+  height: 100%;
 }
 
-.row{
-    display: flex;
-    width: 100%;
-    height: 100%;
+.circulo{
+  width: 100vw;
+  height: 100vh;
 }
 
-@media(min-width: 720px){
-    .row{
-       width: 100vw;
-       height: 100vh;
-    }
+.circulo img{
+  margin-top: 50px;
+  width: 100%;
+  height: 90vh;
+}
 
-    .row .circulo img{
-       width: 100vw;
-       height: 100vh;
-    }
+@media(min-width: 999px){
+  .circulo img{
+    margin-top: 30px;
+    width: 100%;
+    height: 90vh;
+  }
 }
