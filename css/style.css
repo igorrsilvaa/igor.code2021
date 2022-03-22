@@ -48,7 +48,7 @@ body{
 }
 
 .links:hover{
-    background-color: rgba(25, 30, 36, 0.81);
+    background-color: rgba(25, 30, 36, 0.80);
 }
 
 .links a{
@@ -58,7 +58,7 @@ body{
 }
 
 .links a:hover{
-    color: #7a788ad7;
+    color: #EFB037;
 }
 
 .rodape{
