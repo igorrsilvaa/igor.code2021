@@ -6,7 +6,7 @@
 body{
     width: 100%;
     height: 100vh;
-    background: url(../imagens/fundo4.jpg) no-repeat center center;
+    background: url(../imagens/fundo2.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -19,7 +19,7 @@ body{
 }
 
 .row .image_perf{
-    padding-top: 50px;
+    padding-top: 45px;
 }
 
 .row .image_perf img{
@@ -27,7 +27,7 @@ body{
 }
 
 .row .caption{
-    padding-top: 25px;
+    padding-top: 20px;
     padding-bottom: 60px;
 }
 
@@ -63,10 +63,40 @@ body{
     color: #EFB037;
 }
 
+.IconGit{
+    width: 40px;
+    display: flex;
+    position: absolute;
+}
+
+.IconLinkedin{
+    width: 30px;
+    display: flex;
+    position: absolute;
+}
+
+.IconWeb{
+    width: 45px;
+    display: flex;
+    position: absolute;
+}
+
+.IconInstagram{
+    width: 40px;
+    display: flex;
+    position: absolute;
+}
+
+.IconInstagram{
+    width: 40px;
+    display: flex;
+    position: absolute;
+}
+
 .rodape{
     display: flex;
     justify-content: center;
-    margin-top: -20px;
+    margin-top: -15px;
 }
 
 .rodape p{
@@ -76,15 +106,15 @@ body{
 
 @media (min-width: 720px){
     body{
-        background: url(../imagens/fundo5.jpg) no-repeat center center;
+        background: url(../imagens/Fundo1.jpg) no-repeat center center;
         background-size: cover;
         height: 100vh;
     }
     .row .image_perf img {
-        width: 200px;
+        width: 180px;
     }
     .row .caption{
-        padding-top: 35px;
+        padding-top: 25px;
         padding-bottom: 70px;
     }
 
@@ -110,7 +140,7 @@ body{
 
     .rodape{
         display: block;
-        margin-top: -30px;
+        margin-top: -35px;
         text-align: center;
     }
 
