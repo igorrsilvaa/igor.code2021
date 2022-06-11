@@ -93,6 +93,12 @@ body{
     position: absolute;
 }
 
+.IconCheck{
+    width: 40px;
+    display: flex;
+    position: absolute;
+}
+
 .rodape{
     display: flex;
     justify-content: center;
