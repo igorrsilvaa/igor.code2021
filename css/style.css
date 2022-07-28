@@ -116,7 +116,7 @@ body{
     color: #ffffff;
 }
 
-@media (min-width: 320px){
+@media (min-width: 620px){
     body{
         background: url(../imagens/FundoTeste3.jpg) no-repeat center center;
         background-size: cover;
