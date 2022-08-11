@@ -66,14 +66,14 @@ body{
 .IconGit{
     width: 40px;
     display: flex;
-    margin-left: 56px;
+    margin-left: 15px;
     margin-top: -2px;
     position: absolute;
 }
 
 .IconLinkedin{
     width: 30px;
-    margin-left: 60px;
+    margin-left: 20px;
     margin-top: 2px;
     display: flex;
     position: absolute;
@@ -82,7 +82,7 @@ body{
 .IconWeb{
     width: 45px;
     display: flex;
-    margin-left: 52px;
+    margin-left: 14px;
     margin-top: -4px;
     position: absolute;
 }
@@ -90,22 +90,15 @@ body{
 .IconInstagram{
     width: 39px;
     display: flex;
-    margin-left: 56px;
+    margin-left: 18px;
     margin-top: -2px;
     position: absolute;
 }
 
-/*.IconInstagram2{*/
-/*    width: 40px;*/
-/*    display: flex;*/
-/*    margin-left: 25px;*/
-/*    position: absolute;*/
-/*}*/
-
 .IconCheck{
     width: 39px;
     display: flex;
-    margin-left: 56px;
+    margin-left: 19px;
     margin-top: -2px;
     position: absolute;
 }
@@ -166,4 +159,44 @@ body{
         font-size: 25px;
         color: #ffffff;
     }
+
+    .IconGit{
+    width: 40px;
+    display: flex;
+    margin-left: 56px;
+    margin-top: -2px;
+    position: absolute;
+}
+
+.IconLinkedin{
+    width: 30px;
+    margin-left: 60px;
+    margin-top: 2px;
+    display: flex;
+    position: absolute;
+}
+
+.IconWeb{
+    width: 45px;
+    display: flex;
+    margin-left: 52px;
+    margin-top: -4px;
+    position: absolute;
+}
+
+.IconInstagram{
+    width: 39px;
+    display: flex;
+    margin-left: 56px;
+    margin-top: -2px;
+    position: absolute;
+}
+
+.IconCheck{
+    width: 39px;
+    display: flex;
+    margin-left: 56px;
+    margin-top: -2px;
+    position: absolute;
+}
 }
