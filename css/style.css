@@ -67,12 +67,14 @@ body{
     width: 40px;
     display: flex;
     margin-left: 56px;
+    margin-top: -2px;
     position: absolute;
 }
 
 .IconLinkedin{
     width: 30px;
     margin-left: 60px;
+    margin-top: 2px;
     display: flex;
     position: absolute;
 }
@@ -80,14 +82,16 @@ body{
 .IconWeb{
     width: 45px;
     display: flex;
-    margin-left: 55px;
+    margin-left: 52px;
+    margin-top: -4px;
     position: absolute;
 }
 
 .IconInstagram{
     width: 39px;
     display: flex;
-    margin-left: 60px;
+    margin-left: 56px;
+    margin-top: -2px;
     position: absolute;
 }
 
@@ -101,7 +105,8 @@ body{
 .IconCheck{
     width: 39px;
     display: flex;
-    margin-left: 62px;
+    margin-left: 56px;
+    margin-top: -2px;
     position: absolute;
 }
 
